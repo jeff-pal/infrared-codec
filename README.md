@@ -28,7 +28,7 @@ make all
 sudo ./sendRaw ../resources/elgin_airconditioner/1.cnf
 ```
 
-# Emit a IR command
+# Emit an IR command
 
 ```
 sudo ./readIR
