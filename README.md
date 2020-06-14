@@ -1,4 +1,4 @@
-[//]: <> (Copyright (C) 2020 Jeff Pal. All rights reserved.)
+[//]: <> (Copyright [C] 2020 Jeff Pal. All rights reserved.)
 
 # Infrared-codec
 
